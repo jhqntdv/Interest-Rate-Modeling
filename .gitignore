@@ -1,4 +1,4 @@
-"*.csv" 
-".venv/" 
-"__pycache__/" 
-".ipynb_checkpoints/" 
+*.csv
+.venv/
+__pycache__/
+.ipynb_checkpoints/
